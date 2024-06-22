@@ -1,0 +1,2 @@
+hugo new --kind chapter GroupTheory/_index.md
+hugo new GroupTheory/Set/_index.md
